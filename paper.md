@@ -1,6 +1,7 @@
 1. AVOIDING CATASTROPHE: ACTIVE DENDRITES ENABLE MULTI-TASK LEARNING IN DYNAMIC ENVIRONMENTS
 2. Relating transformers to models and neural representations of the hippocampal formation
 3. Multihead self-attention in cortico-thalamic circuits
+4. Building functional and mechanistic models of cortical computation based on canonical cell type connectivity
 
 ### AVOIDING CATASTROPHE: ACTIVE DENDRITES ENABLE MULTI-TASK LEARNING IN DYNAMIC ENVIRONMENTS
 * [Youtube](https://www.youtube.com/watch?v=O_dJ31T01i8)
@@ -13,3 +14,7 @@
 ### Multihead self-attention in cortico-thalamic circuits
 * [Paper](https://arxiv.org/abs/2504.06354)
 * 08.04.2025
+
+### Building functional and mechanistic models of cortical computation based on canonical cell type connectivity
+* [Paper](https://arxiv.org/abs/2504.03031)
+* 03.04.2025

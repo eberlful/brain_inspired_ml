@@ -19,3 +19,40 @@ Möchtest du wissen, wie diese Zellen experimentell untersucht werden oder welch
 
 [1](https://elifesciences.org/articles/82357): https://elifesciences.org/articles/82357  
 [2](https://link.springer.com/chapter/10.1007/978-3-7091-1292-2_10): https://link.springer.com/chapter/10.1007/978-3-7091-1292-2_10
+
+
+
+
+---
+
+
+
+
+Im Kontext des Gehirns bezeichnet ein **„Pacemaker-Neuron“** ein spezielles Neuron, das rhythmische, spontane elektrische Aktivität erzeugt – ähnlich wie ein Taktgeber oder „Schrittmacher“. Diese Neuronen spielen eine zentrale Rolle bei der Steuerung biologischer Rhythmen und koordinierter neuronaler Aktivität.
+
+### Hauptmerkmale von Pacemaker-Neuronen:
+
+1. **Spontane Aktivität**:  
+   Sie feuern Aktionspotenziale regelmäßig, auch ohne äußere Reize.
+
+2. **Rhythmusgeber**:  
+   Sie erzeugen und regulieren **neuronale Rhythmen**, z. B. im Schlaf-Wach-Zyklus, bei Atmung oder motorischen Bewegungen.
+
+3. **Ionale Mechanismen**:  
+   Ihre rhythmische Aktivität wird durch spezielle Ionenkanäle ermöglicht, z. B. **HCN-Kanäle** (Hyperpolarization-activated cyclic nucleotide-gated channels), die bei Hyperpolarisation aktiviert werden und eine langsame Depolarisation einleiten.
+
+### Beispiele für Pacemaker-Neuronen im Gehirn:
+
+- **Hirnstamm (z. B. Atemzentrum in der Medulla oblongata)**:  
+  Steuert die rhythmische Atmung.
+
+- **Thalamus**:  
+  Erzeugt rhythmische Oszillationen, die z. B. im Schlaf wichtig sind.
+
+- **Substantia nigra (dopaminerge Neuronen)**:  
+  Einige dieser Neuronen zeigen spontane Aktivität und sind wichtig für Bewegungssteuerung (z. B. bei Parkinson relevant).
+
+- **Suprachiasmatischer Nukleus (SCN)** im Hypothalamus:  
+  Enthält Pacemaker-Neuronen, die den **zirkadianen Rhythmus** (innere Uhr) steuern.
+
+---

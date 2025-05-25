@@ -3,6 +3,7 @@
 3. Multihead self-attention in cortico-thalamic circuits
 4. Building functional and mechanistic models of cortical computation based on canonical cell type connectivity
 5. Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI
+6. Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence
 
 ### AVOIDING CATASTROPHE: ACTIVE DENDRITES ENABLE MULTI-TASK LEARNING IN DYNAMIC ENVIRONMENTS
 * [Youtube](https://www.youtube.com/watch?v=O_dJ31T01i8)
@@ -20,7 +21,11 @@
 * [Paper](https://arxiv.org/abs/2504.03031)
 * 03.04.2025
 
-
 ### Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI
 * [Paper](https://arxiv.org/abs/2505.14556)
 * 20.05.2025
+
+### Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence
+* [Paper](https://arxiv.org/abs/2505.10176)
+* [Github](https://github.com/Brain-Cog-Lab/IEMF)
+* 15.05.2025

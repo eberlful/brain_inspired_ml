@@ -56,3 +56,57 @@ Im Kontext des Gehirns bezeichnet ein **„Pacemaker-Neuron“** ein spezielles 
   Enthält Pacemaker-Neuronen, die den **zirkadianen Rhythmus** (innere Uhr) steuern.
 
 ---
+
+
+### Was sind "Relay Cells"?
+
+**Relay Cells** (deutsch: Relaisneuronen) sind Nervenzellen, die eine zentrale Rolle in der Informationsverarbeitung des Nervensystems spielen. Sie werden auch als **Schaltneuronen** oder **Interneurone** bezeichnet und befinden sich hauptsächlich im Gehirn und Rückenmark.
+
+Im engeren neurobiologischen Sinn bezeichnet der Begriff häufig die Neuronen im Thalamus, insbesondere in sensorischen Systemen wie dem visuellen System. Diese Zellen vermitteln ("relayn") sensorische Informationen von der Peripherie (z.B. Auge, Ohr) weiter zur Großhirnrinde, wo bewusste Wahrnehmung stattfindet[1][2][3][4].
+
+### Wofür sind Relay Cells gut?
+
+Relay Cells erfüllen folgende zentrale Aufgaben:
+
+- **Weiterleitung sensorischer Informationen:**  
+  Sie übertragen Signale von sensorischen Neuronen (z.B. aus der Netzhaut) an die Großhirnrinde. Im visuellen System nehmen sie z.B. Informationen von der Netzhaut auf und leiten sie an die Sehrinde weiter[1][2][4].
+
+- **Integration und Filterung:**  
+  Relay Cells erhalten neben den "treibenden" sensorischen Eingaben auch "modulierende" Eingaben aus anderen Hirnarealen. Dadurch können sie filtern, verstärken oder unterdrücken, welche Informationen tatsächlich weitergeleitet werden – abhängig von Aufmerksamkeit, Verhalten und Kontext[1][2][5][6].
+
+- **Vermittlung zwischen sensorischen und motorischen Bahnen:**  
+  In Reflexbögen verbinden Relay Cells sensorische Neuronen mit motorischen Neuronen und ermöglichen so schnelle, automatische Reaktionen (Reflexe)[3][7].
+
+#### Beispiel: Thalamische Relay Cells
+
+- **Ort:** Thalamus (z.B. lateraler Kniehöcker/LGN im visuellen System)
+- **Funktion:**  
+  - Übertragen visuelle Informationen von der Netzhaut zur Sehrinde.
+  - Erhalten modulierende Eingaben aus dem Cortex und Hirnstamm, die bestimmen, welche Informationen weitergeleitet werden (z.B. bei Aufmerksamkeit)[2][5][4][6].
+  - Dienen als "Tor" zur bewussten Wahrnehmung: Nur relevante Informationen passieren.
+
+### Zusammengefasst
+
+Relay Cells sind spezialisierte Nervenzellen, die als Schaltstellen für sensorische Informationen dienen. Sie sorgen dafür, dass nur ausgewählte, relevante Signale ins Bewusstsein gelangen oder motorische Reaktionen auslösen. Ihre Fähigkeit, Informationen zu filtern und zu integrieren, ist entscheidend für Wahrnehmung, Aufmerksamkeit und schnelle Reflexe[1][2][5][3][4][6][7].
+
+Sources
+[1] Performance limitations of relay neurons - PubMed https://pubmed.ncbi.nlm.nih.gov/22973184/
+[2] Thalamic relay functions https://pubmed.ncbi.nlm.nih.gov/11702563/
+[3] Biopsychology: Sensory, Relay and Motor Neurons https://www.tutor2u.net/psychology/reference/biopsychology-sensory-relay-and-motor-neurons
+[4] A model of thalamocortical relay cells - PMC - PubMed Central https://pmc.ncbi.nlm.nih.gov/articles/PMC1464558/
+[5] Performance Limitations of Relay Neurons - PLOS https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1002626
+[6] Thalamic interneurons and relay cells use complementary synaptic ... https://pmc.ncbi.nlm.nih.gov/articles/PMC3767474/
+[7] Relay cell - Oxford Reference https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100412801
+[8] Cell relay - Wikipedia https://en.wikipedia.org/wiki/Cell_relay
+[9] Cell relay definition – Glossary - NordVPN https://nordvpn.com/cybersecurity/glossary/cell-relay/
+[10] What is Cell Relay? - Webopedia https://www.webopedia.com/definitions/cell-relay/
+[11] Relay cells - Tor Specifications https://spec.torproject.org/tor-spec/relay-cells.html
+[12] cell relay | Encyclopedia.com https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/cell-relay
+[13] Cell Relay - Wray Castle https://wraycastle.com/blogs/glossary/cell-relay
+[14] Thalamic interneurons and relay cells use complementary ... https://www.nature.com/articles/nn.2707
+[15] cell relay - CLC Definition - Computer Language https://www.computerlanguage.com/results.php?definition=cell+relay
+[16] Chapter 4 Thalamic relay functions https://www.sciencedirect.com/science/article/pii/S0079612301340050
+[17] Dendritic Low-Threshold Calcium Currents in Thalamic Relay Cells https://www.jneurosci.org/content/18/10/3574
+[18] Thalamic Relay Functions and Their Role in Corticocortical ... https://www.sciencedirect.com/science/article/pii/S0896627301005827
+[19] Retinal oscillations carry visual information to cortex - Frontiers https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/neuro.06.004.2009/full
+[20] Cell relay - Encyclopedia - The Free Dictionary https://encyclopedia2.thefreedictionary.com/cell+relay

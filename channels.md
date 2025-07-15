@@ -2,6 +2,9 @@
 ##### Artem Kirsanov
 * https://www.youtube.com/@ArtemKirsanov
 
+##### Bing Wen Brunton
+* https://www.youtube.com/@bingsbrain/featured
+
 ### Scholar
 ##### James Whittington
 * https://scholar.google.co.uk/citations?hl=en&user=zUu0JKYAAAAJ&view_op=list_works&sortby=pubdate
